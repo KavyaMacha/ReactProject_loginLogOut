@@ -1,0 +1,19 @@
+.logout-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.button {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: #dd1264;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.button:hover {
+  background-color: #2b2c49;
+}
